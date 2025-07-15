@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 aiohappyeyeballs==2.4.6
 aiohttp==3.11.12
 aiosignal==1.3.2
@@ -119,13 +118,3 @@ wasabi==1.1.3
 weasel==0.3.4
 yarl==1.18.3
 zipp==1.0.0
-=======
-fastapi
-uvicorn
-pillow
-torch
-torchvision
-pandas
-pyarrow
-reportlab
->>>>>>> 175ca990452742c50d9f9213cdc904e11e40c559
