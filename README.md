@@ -1,36 +1,35 @@
+# 👗 AI Fashion Tagger – Meesho Visual Taxonomy
+
+Developed a deep learning model using a modified EfficientNet to predict fashion attributes from product images, achieving a **75% harmonic mean F1-score**. Integrated into a full-stack web application with an intuitive interface for image uploads, instant prediction display, and report generation with PDF/CSV exports for real-time inference.
 
 ---
 
-## 🌐 Live Demo
+## 🌟 Features
 
-- **Frontend:** [https://your-frontend-url.onrender.com](https://your-frontend-url.onrender.com)
-- **Backend API:** [https://fashion-ai-tagger-meesho.onrender.com](https://fashion-ai-tagger-meesho.onrender.com)
+- **Upload Images:** Drag & drop or select product images.
+- **AI Attribute Prediction:** Automated analysis of fashion attributes using state-of-the-art deep learning.
+- **Instant Results:** Detailed predictions with user-friendly previews.
+- **Export Reports:** Download results as PDF or CSV for sharing and record-keeping.
 
 ---
 
-## 📸 How It Works
+## 🖥️ Live Demo
 
-1. **Upload Images:**  
-   Drag & drop or select product images.
-2. **Analyze:**  
-   The app sends images to the backend, which runs the AI model and returns predicted attributes.
-3. **View Results:**  
-   Instantly see detailed attribute predictions for each image, with a preview and attribute badges.
-4. **Export Reports:**  
-   Download all results as a PDF or CSV for easy sharing or record-keeping.
+- *Deployed link:** [Demo Link Coming Soon](https://fashion-ai-tagger-meesho-1.onrender.com)
+- **Backend API:** Request at Conatct Point.
 
 ---
 
 ## 🚀 Quick Start
 
-### **Backend**
+### Backend
 ```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-### **Frontend**
+### Frontend
 ```bash
 cd Frontend/meesho-version-re2
 npm install
@@ -39,22 +38,56 @@ npm run dev
 
 ---
 
-## ⚙️ Deployment
+## ⚡ Deployment
 
-### **Backend (Render)**
-- Build command: `pip install -r requirements.txt`
-- Start command: `uvicorn main:app --host 0.0.0.0 --port 10000`
-- Python version: 3.9+
-- Persistent files: Place all model/data files in the repo.
+- **Backend:** Python, FastAPI, EfficientNet
+- **Frontend:** React.js, Tailwind CSS
+- **Platform:** Render.com
 
-### **Frontend (Render)**
-- Build command: `npm install && npm run build`
-- Publish directory: `dist`
-- Root directory: `Frontend/meesho-version-re2`
+---
 
-### **CORS**
-- Update CORS in `main.py` to allow your frontend URL.
+## 🛠 Tech Stack
+
+- **Backend:** Python, FastAPI, EfficientNet (modified), Flask
+- **Frontend:** React.js, Tailwind CSS
+- **Deep Learning:** PyTorch/TensorFlow
+- **Reporting:** PDF/CSV generation
+- **Deployment:** Render.com
 
 ---
 
 ## 📂 Project Structure
+
+```plaintext
+├── backend/
+│   ├── main.py
+│   ├── model/
+│   └── requirements.txt
+├── Frontend/
+│   └── meesho-version-re2/
+│       ├── src/
+│       └── package.json
+├── notebooks/
+│   └── model_training.ipynb
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots or GIFs here to showcase your application UI and features._
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to Meesho for providing the dataset and resources.
+
+---
