@@ -1,8 +1,9 @@
-fastapi
-uvicorn
-pillow
-torch
-torchvision
-pandas
-pyarrow
-reportlab
+   fastapi
+   uvicorn
+   pillow
+   torch
+   torchvision
+   pandas
+   pyarrow
+   reportlab
+   python-multipart
