@@ -1,0 +1,64 @@
+{
+  "000000 (1).jpg": {
+    "category": "Men Tshirts",
+    "attributes": {
+      "color": "multicolor",
+      "neck": "round",
+      "pattern": "printed",
+      "print_or_pattern_type": "typography",
+      "sleeve_length": "long sleeves"
+    }
+  },
+  "20240717_190616.jpg": {
+    "category": "Men Tshirts",
+    "attributes": {
+      "color": "white",
+      "neck": "round",
+      "pattern": "printed",
+      "print_or_pattern_type": "solid",
+      "sleeve_length": "short sleeves"
+    }
+  },
+  "crop top tshirt.jpg": {
+    "category": "Women Tshirts",
+    "attributes": {
+      "color": "black",
+      "fit_shape": "regular",
+      "length": "crop",
+      "pattern": "solid",
+      "print_or_pattern_type": "solid",
+      "sleeve_length": "short sleeves",
+      "sleeve_styling": "regular sleeves",
+      "surface_styling": "short sleeves"
+    }
+  },
+  "kurti.jpg": {
+    "category": "Kurtis",
+    "attributes": {
+      "color": "black",
+      "fit_shape": "straight",
+      "length": "calf length",
+      "occasion": "daily",
+      "ornamentation": "default",
+      "pattern": "default",
+      "print_or_pattern_type": "default",
+      "sleeve_length": "three-quarter sleeves",
+      "sleeve_styling": "regular"
+    }
+  },
+  "women top.jpeg": {
+    "category": "Women Tops & Tunics",
+    "attributes": {
+      "color": "default",
+      "fit_shape": "regular",
+      "length": "regular",
+      "neck_collar": "default",
+      "ocassion": "casual",
+      "pattern": "solid",
+      "print_or_pattern_type": "solid",
+      "sleeve_length": "short sleeves",
+      "sleeve_styling": "default",
+      "surface_styling": "ruffles"
+    }
+  }
+}

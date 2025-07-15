@@ -1,0 +1,266 @@
+{
+  "Men Tshirts": {
+    "1": [
+      "white",
+      "multicolor",
+      "black",
+      "default"
+    ],
+    "2": [
+      "polo",
+      "round"
+    ],
+    "3": [
+      "solid",
+      "printed"
+    ],
+    "4": [
+      "typography",
+      "solid",
+      "default"
+    ],
+    "5": [
+      "long sleeves",
+      "short sleeves"
+    ]
+  },
+  "Sarees": {
+    "1": [
+      "same as border",
+      "solid",
+      "default",
+      "same as saree"
+    ],
+    "2": [
+      "woven design",
+      "solid",
+      "no border",
+      "zari",
+      "default",
+      "temple border"
+    ],
+    "3": [
+      "no border",
+      "big border",
+      "small border"
+    ],
+    "4": [
+      "navy blue",
+      "multicolor",
+      "green",
+      "cream",
+      "pink",
+      "default",
+      "white",
+      "yellow"
+    ],
+    "5": [
+      "traditional",
+      "daily",
+      "party",
+      "wedding"
+    ],
+    "6": [
+      "jacquard",
+      "tassels and latkans",
+      "default"
+    ],
+    "7": [
+      "woven design",
+      "default",
+      "same as saree",
+      "zari woven"
+    ],
+    "8": [
+      "woven design",
+      "solid",
+      "default",
+      "printed",
+      "zari woven"
+    ],
+    "9": [
+      "elephant",
+      "peacock",
+      "ethnic motif",
+      "solid",
+      "checked",
+      "botanical",
+      "default",
+      "floral",
+      "applique"
+    ],
+    "10": [
+      "yes",
+      "no"
+    ]
+  },
+  "Kurtis": {
+    "1": [
+      "navy blue",
+      "multicolor",
+      "black",
+      "maroon",
+      "grey",
+      "green",
+      "blue",
+      "pink",
+      "orange",
+      "red",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "2": [
+      "straight",
+      "a-line"
+    ],
+    "3": [
+      "knee length",
+      "calf length"
+    ],
+    "4": [
+      "party",
+      "daily"
+    ],
+    "5": [
+      "default",
+      "net"
+    ],
+    "6": [
+      "solid",
+      "default"
+    ],
+    "7": [
+      "solid",
+      "default"
+    ],
+    "8": [
+      "three-quarter sleeves",
+      "sleeveless",
+      "short sleeves"
+    ],
+    "9": [
+      "sleeveless",
+      "regular"
+    ]
+  },
+  "Women Tshirts": {
+    "1": [
+      "multicolor",
+      "black",
+      "maroon",
+      "pink",
+      "default",
+      "white",
+      "yellow"
+    ],
+    "2": [
+      "boxy",
+      "loose",
+      "regular"
+    ],
+    "3": [
+      "long",
+      "crop",
+      "regular"
+    ],
+    "4": [
+      "solid",
+      "default",
+      "printed"
+    ],
+    "5": [
+      "graphic",
+      "solid",
+      "quirky",
+      "funky print",
+      "typography",
+      "default"
+    ],
+    "6": [
+      "long sleeves",
+      "default",
+      "short sleeves"
+    ],
+    "7": [
+      "cuffed sleeves",
+      "regular sleeves"
+    ],
+    "8": [
+      "applique",
+      "default"
+    ]
+  },
+  "Women Tops & Tunics": {
+    "1": [
+      "navy blue",
+      "multicolor",
+      "black",
+      "maroon",
+      "green",
+      "blue",
+      "pink",
+      "default",
+      "red",
+      "peach",
+      "white",
+      "yellow"
+    ],
+    "2": [
+      "boxy",
+      "default",
+      "fitted",
+      "regular"
+    ],
+    "3": [
+      "crop",
+      "regular"
+    ],
+    "4": [
+      "high",
+      "sweetheart neck",
+      "stylised",
+      "v-neck",
+      "square neck",
+      "default",
+      "round neck"
+    ],
+    "5": [
+      "party",
+      "casual"
+    ],
+    "6": [
+      "solid",
+      "default",
+      "printed"
+    ],
+    "7": [
+      "graphic",
+      "solid",
+      "quirky",
+      "typography",
+      "default",
+      "floral"
+    ],
+    "8": [
+      "three-quarter sleeves",
+      "long sleeves",
+      "sleeveless",
+      "short sleeves"
+    ],
+    "9": [
+      "puff sleeves",
+      "regular sleeves",
+      "default",
+      "sleeveless"
+    ],
+    "10": [
+      "waist tie-ups",
+      "knitted",
+      "ruffles",
+      "default",
+      "tie-ups",
+      "applique"
+    ]
+  }
+}
