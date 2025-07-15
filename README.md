@@ -20,7 +20,7 @@ Developed a deep learning model using a modified EfficientNet to predict fashion
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Backend
 ```bash
@@ -104,7 +104,7 @@ Below are sample screenshots of the AI Fashion Tagger application:
 
 
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Special thanks to Meesho for providing the dataset and resources.
 
