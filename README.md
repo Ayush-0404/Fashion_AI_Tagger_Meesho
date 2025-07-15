@@ -76,18 +76,38 @@ npm run dev
 
 ## 📸 Screenshots
 
-_Add screenshots or GIFs here to showcase your application UI and features._
+Below are sample screenshots of the AI Fashion Tagger application:
 
----
+<p align="center">
+  <img src="SS/AI tagger -1.png" alt="Home Page" width="600"/>
+  <br>
+  <em>Home Page</em>
+</p>
 
-## 📄 License
+<p align="center">
+  <img src="SS/Upload_page.png" alt="Image Upload Interface" width="600"/>
+  <br>
+  <em>Image Upload Interface</em>
+</p>
 
-This project is licensed under the MIT License.
+<p align="center">
+  <img src="SS/Analysis_page.png" alt="Analysis page" width="600"/>
+  <br>
+  <em>Prediction Results Display</em>
+</p>
 
----
+<p align="center">
+  <img src="SS/Attribute_Prediction'.png" alt="Predicted Result Page" width="600"/>
+  <br>
+  <em>Report Export Feature</em>
+</p>
+
+
 
 ## 🙌 Acknowledgements
 
 Special thanks to Meesho for providing the dataset and resources.
 
 ---
+
+**Made with ❤️ by Team TechTrio**
