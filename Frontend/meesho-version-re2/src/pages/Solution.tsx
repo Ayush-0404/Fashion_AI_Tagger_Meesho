@@ -9,7 +9,8 @@ import LoadingAnimation from '@/components/solution/LoadingAnimation';
 import ResultsSection from '@/components/solution/ResultsSection';
 import jsPDF from "jspdf";
 
-const BACKEND_URL = "https://fashion-ai-tagger-meesho.onrender.com";
+//const BACKEND_URL = "https://fashion-ai-tagger-meesho.onrender.com";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL;
 
 const Solution = () => {
   const [uploadedImages, setUploadedImages] = useState<File[]>([]);
