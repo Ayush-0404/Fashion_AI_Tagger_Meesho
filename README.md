@@ -51,7 +51,7 @@ npm run dev
 - **Backend:** Python, FastAPI, EfficientNet (modified), Flask
 - **Frontend:** React.js, Tailwind CSS
 - **Deep Learning:** PyTorch/TensorFlow
-- **Reporting:** PDF/CSV generation
+- **Reporting:** PDF/CSV generation, Python
 - **Deployment:** Render.com
 
 ---
