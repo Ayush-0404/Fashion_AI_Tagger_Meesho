@@ -13,7 +13,7 @@ Developed a deep learning model using a modified EfficientNet to predict fashion
 
 ---
 
-## 🖥️ Live Demo
+## 🖥️ Live Demo-
 
 - *link:** [Integrated Link](https://fashion-ai-tagger-meesho-1.onrender.com)
 - **Backend API:** Request at Conatct Point.
