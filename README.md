@@ -101,12 +101,12 @@ Below are sample screenshots of the AI Fashion Tagger application:
   <br>
   <em>Report Export Feature</em>
 </p>
-
-
+further ss are available in SS folder.
 
 ##  Acknowledgements
 
 Special thanks to Meesho for providing the dataset and resources.
+
 
 ---
 
