@@ -52,7 +52,7 @@ npm run dev
 - **Frontend:** React.js, Tailwind CSS
 - **Deep Learning:** PyTorch/TensorFlow
 - **Reporting:** PDF/CSV generation, Python
-- **Deployment:** Render.com
+- **Deployment:** Render.com (backend)
 
 ---
 
