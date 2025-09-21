@@ -105,7 +105,7 @@ More screenshots are available in SS folder
 
 ##  Acknowledgements
 
-Special thanks to Meesho for providing the dataset and resources.
+Special thanks to Meesho for providing the dataset and resources
 
 
 ---
