@@ -20,7 +20,7 @@ Developed a deep learning model using a modified EfficientNet to predict fashion
 
 ---
 
-##  Quick Start
+##  Quick Start -
 
 ### Backend
 ```bash
@@ -38,7 +38,7 @@ npm run dev
 
 ---
 
-## ⚡ Deployment
+## ⚡ Deployment -
 
 - **Backend:** Python, FastAPI, EfficientNet
 - **Frontend:** React.js, Tailwind CSS
