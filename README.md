@@ -74,7 +74,7 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots -
 
 Below are sample screenshots of the AI Fashion Tagger application:
 
