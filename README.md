@@ -9,8 +9,7 @@ Developed a deep learning model using a modified EfficientNet to predict fashion
 - **Upload Images:** Drag & drop or select product images.
 - **AI Attribute Prediction:** Automated analysis of fashion attributes using state-of-the-art deep learning.
 - **Instant Results:** Detailed predictions with user-friendly previews.
-- **Export Reports:** Download results as PDF or CSV for sharing and record-keeping..
-
+- **Export Reports:** Download results as PDF or CSV for sharing and record-keeping.
 ---
 
 ## 🖥️ Live Demo -
