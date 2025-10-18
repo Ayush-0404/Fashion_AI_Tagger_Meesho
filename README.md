@@ -19,7 +19,7 @@ Developed a deep learning model using a modified EfficientNet to predict fashion
 
 ---
 
-##  Quick Start -
+##  Quick Start 
 
 ### Backend
 ```bash
