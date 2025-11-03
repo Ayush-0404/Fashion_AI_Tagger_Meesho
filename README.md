@@ -37,7 +37,7 @@ npm run dev
 
 ---
 
-## ⚡ Deployment -
+## ⚡ Deployment 
 
 - **Backend:** Python, FastAPI, EfficientNet
 - **Frontend:** React.js, Tailwind CSS
