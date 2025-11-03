@@ -45,7 +45,7 @@ npm run dev
 
 ---
 
-## 🛠 Tech Stack -
+## 🛠 Tech Stack 
 
 - **Backend:** Python, FastAPI, EfficientNet (modified), Flask
 - **Frontend:** React.js, Tailwind CSS
