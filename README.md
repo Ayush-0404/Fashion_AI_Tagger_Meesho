@@ -55,7 +55,7 @@ npm run dev
 
 ---
 
-## 📂 Project Structure -
+## 📂 Project Structure 
 
 ```plaintext
 ├── backend/
