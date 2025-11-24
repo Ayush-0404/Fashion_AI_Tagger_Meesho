@@ -100,7 +100,7 @@ Below are sample screenshots of the AI Fashion Tagger application:
   <br>
   <em>Report Export Feature</em>
 </p>
-More screenshots are available in SS folder
+More screenshots are available in SS folder.
 
 ##  Acknowledgements -
 
