@@ -102,7 +102,7 @@ Below are sample screenshots of the AI Fashion Tagger application:
 </p>
 More screenshots are available in SS folder.
 
-##  Acknowledgements -
+##  Acknowledgements 
 
 Special thanks to Meesho for providing the dataset and resources
 
